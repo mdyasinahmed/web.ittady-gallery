@@ -569,7 +569,7 @@ button {
      height: 54px;
      background: #fff;
      color: #989696;
-     font-size: 18px;
+     font-size: 16px;
      font-weight: normal;
      border-radius: 5px;
 }
@@ -588,7 +588,7 @@ button {
 }
 
 .main_form .send_btn {
-     font-size: 22px;
+     font-size: 16px;
      transition: ease-in all 0.5s;
      background-color: transparent;
      border: #fff solid 3px;
@@ -630,7 +630,7 @@ button {
      height: 80px;
      margin-bottom: 50px;
 }
-footer .quick_links h4{
+footer h4{
    color: #ffffff !important;
    font-size: 18px; 
    font-weight: 600; 
